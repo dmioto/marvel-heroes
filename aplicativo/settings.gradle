@@ -1,0 +1,8 @@
+rootProject.name='desafio-android-daniel-mioto'
+include ':app'
+include ':heroes_list'
+include ':core-ui'
+include ':device_checker'
+include ':request_api'
+include ':hero_detail'
+include ':comic_most_expensive'

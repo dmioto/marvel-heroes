@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connected_on_internet">Conectado ao WI-FI</string>
+    <string name="no_internet_connection">Sem conexão com a internet</string>
+    <string name="connected_to_2g">Conectado à rede mobile 2G</string>
+    <string name="connected_to_3g">Conectado à rede mobile 3G</string>
+    <string name="connected_to_4g">Conectado à rede mobile 4G</string>
+    <string name="builder_message">Por favor, ative a localização.</string>
+    <string name="builder_title">ICS Delivery</string>
+</resources>

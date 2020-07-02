@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">desafio-android-daniel-mioto</string>
+    <string name="title_hero_detail">Hero Detail</string>
+    <string name="title_comic_most_expensive">Comic Most Expensive</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- HEROES LIST -->
+    <string name="title_heroes_list">Heroes List</string>
+    <string name="main_menu_information">Information</string>
+</resources>

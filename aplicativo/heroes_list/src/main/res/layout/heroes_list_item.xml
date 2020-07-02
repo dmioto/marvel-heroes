@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_view_heroes_list_item"
+    android:layout_width="match_parent"
+    android:layout_height= "@dimen/card_view_heroes_list_item_height"
+    android:layout_margin="@dimen/card_view_heroes_list_item_margin"
+    app:cardCornerRadius="@dimen/card_view_heroes_list_item_corner_radius" >
+
+    <com.facebook.drawee.view.SimpleDraweeView
+        android:id="@+id/character_image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:drawable/screen_background_dark_transparent"
+        android:scaleType="centerCrop"
+        android:adjustViewBounds="true" />
+
+    <TextView
+        android:id="@+id/character_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/screen_background_dark_transparent"
+        android:textColor="@android:color/white"
+        android:textSize="@dimen/character_name_text_size"
+        android:paddingBottom="@dimen/character_name_padding_bottom"
+        android:textStyle="bold"
+        android:layout_gravity="bottom|center" />
+
+
+</androidx.cardview.widget.CardView>

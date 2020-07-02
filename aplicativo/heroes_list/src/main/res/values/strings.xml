@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="greeting_title">Hi!</string>
+    <string name="greetings_content">Swipe up/down to see all characters and tap it to see more details.</string>
+    <string name="greetings_confirm">OK</string>
+</resources>

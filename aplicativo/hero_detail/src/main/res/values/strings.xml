@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="placeholder_hero_name">Some hero</string>
+    <string name="placeholder_comic_title">Some comic</string>
+    <string name="no_content_description">There is no description available for this character.</string>
+    <string name="label_comics">Comics</string>
+    <string name="no_comics">No comics available to this character.</string>
+    <string name="most_expensive">Tap to see the most expensive comic.</string>
+</resources>

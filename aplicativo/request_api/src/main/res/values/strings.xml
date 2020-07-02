@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Request API</string>
+    <string name="cast_error">Internal error</string>
+    <string name="not_able_to_connect_error">Not able to communicate with our servers</string>
+    <string name="request_failed">Request failed</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- HEROES LIST -->
+
+    <dimen name="card_view_heroes_list_item_height">200dp</dimen>
+    <dimen name="card_view_heroes_list_item_margin">8dp</dimen>
+    <dimen name="card_view_heroes_list_item_corner_radius">16dp</dimen>
+    <dimen name="constraint_heroes_list_item_padding">8dp</dimen>
+    <dimen name="character_name_text_size">16sp</dimen>
+    <dimen name="hero_logo_padding">12dp</dimen>
+    <dimen name="character_name_padding_bottom">4dp</dimen>
+    <dimen name="open_menu_padding">12dp</dimen>
+    <dimen name="next_page_padding">12dp</dimen>
+    <dimen name="back_before_page_padding">12dp</dimen>
+
+</resources>
